@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  #root{
+    text-align: center;
+    font-family: Arial;
+    
+  }
+  .note-heading{
+    display: inline-block;
+    float:left;
+    margin-bottom: 0; 
+    margin-left: 0.5rem;
+    margin-top: 0.3rem;
+    
+  }
+  .note-box{
+    padding: 0.2rem;
+    width: 97%;
+    height: 80vh;
+    font-size: 1.2rem;
+    cursor: pointer;
+    font-family: Arial;
+  }
+  .btn-with-text{
+    background-color:#3081e3 ;
+    padding: 0.5rem;
+    border: 0;
+    border-radius: 5px;
+    color: #ededed;
+  }
+  .save-btn{
+    float: right;
+    margin: 0.5rem 1rem;
+    
+  
+    
+  }
