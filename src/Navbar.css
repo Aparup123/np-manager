@@ -24,6 +24,9 @@
   font-size: 1.5rem;
 }
 
+.nav-list li{
+  cursor: pointer;
+}
 
 
 
