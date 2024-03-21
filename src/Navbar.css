@@ -49,7 +49,7 @@
     position: fixed;
     top: 3.4rem;
     right: -100%;
-    transition: 0.5s ease;
+    transition: 0.3s ease;
     margin: 0;
   }
   .nav-list.active{
